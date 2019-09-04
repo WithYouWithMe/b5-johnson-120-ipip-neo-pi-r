@@ -1,23 +1,12 @@
 {
-  "name": "@alheimsins/b5-johnson-120-ipip-neo-pi-r",
+  "name": "@withyouwithme/b5-questions",
   "description": "Module for returning Big Five Johnson 120 IPIP-NEO-PI-R items",
   "version": "2.1.7",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
-  "author": {
-    "name": "Geir Gåsodden",
-    "email": "geir.gasodden@pythonia.no",
-    "url": "https://github.com/zrrrzzt"
-  },
-  "contributors": [
-    {
-      "name": "Jonas Enge",
-      "email": "jonas.enge@gmail.com",
-      "url": "https://github.com/maccyber"
-    }
-  ],
+  "author": "Geir Gåsodden, WithyouWithMe",
   "main": "index.js",
   "engines": {
     "node": ">=10.0.0"
@@ -47,7 +36,7 @@
   "bugs": {
     "url": "https://github.com/Alheimsins/b5-johnson-120-ipip-neo-pi-r/issues"
   },
-  "homepage": "https://github.com/Alheimsins/b5-johnson-120-ipip-neo-pi-r#readme",
+  "homepage": "https://github.com/WithYouWithMe/b5-johnson-120-ipip-neo-pi-r.git#readme",
   "devDependencies": {
     "ava": "2.3.0",
     "coveralls": "3.0.6",
